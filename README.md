@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount&size=42&pause=1000&color=B60000&width=435&lines=Mouse+CSS)](https://git.io/typing-svg)
+
 #🐀MouseCSS
 
 **`Formado em Design`**
