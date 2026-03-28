@@ -12,6 +12,10 @@
 
 <br>
 
+<p align="center">Sou um profissional focado na convergência entre a estética visual do <b>Design UI/UX</b> e a robustez técnica do <b>Desenvolvimento Fullstack</b>. Com formação pela <b>Estácio</b> e especialização pelo <b>Instituto PROA</b>, transformo conceitos em código funcional e interfaces de alta fidelidade.</p>
+
+<br>
+
 <div align="center">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iagocruz2005-arch&theme=neon&background=000000&fire=ff0000&ring=ff0000&sideNums=ffffff&currStreakNum=ff0000" />
@@ -49,8 +53,6 @@
 </div>
 
 ---
-
-<p align="center">Sou um profissional focado na convergência entre a estética visual do <b>Design UI/UX</b> e a robustez técnica do <b>Desenvolvimento Fullstack</b>. Com formação pela <b>Estácio</b> e especialização pelo <b>Instituto PROA</b>, transformo conceitos em código funcional e interfaces de alta fidelidade.</p>
 
 <div align="center">
   <br>
