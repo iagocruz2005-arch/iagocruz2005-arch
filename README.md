@@ -59,7 +59,7 @@
   <a href="mailto:iagocruz2005@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-FF0000?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
-  <a href="https://www.linkedin.com/in/iago-da-silva-cruz">
+  <a href="https://www.linkedin.com/in/iago-da-silva-cruz-066216307/">
     <img src="https://img.shields.io/badge/LINKEDIN-FF0000?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="https://www.behance.net/iagocruz">
