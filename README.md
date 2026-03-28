@@ -78,3 +78,9 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=000000&customColorList=23&section=footer&text=INITIATING%20CREATIVE%20PROCESS...&fontColor=ff0000&fontSize=20"/>
 </div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iagocruz2005-arch/iagocruz2005-arch/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iagocruz2005-arch/iagocruz2005-arch/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iagocruz2005-arch/iagocruz2005-arch/output/github-contribution-grid-snake.svg">
+</picture>
