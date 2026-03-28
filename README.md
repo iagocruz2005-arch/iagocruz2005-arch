@@ -1,6 +1,4 @@
-<div align="center">
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=000000&customColorList=23&section=header&text=IAGO%20CRUZ&fontColor=ff0000&fontSize=50"/>
 
 <br>
 
@@ -54,17 +52,7 @@
 
 ---
 
-<br>
-<details align="center">  
-  <summary>
-      <samp>
-        <font color="#ff0000"><b>More Info & Cyber Connect</b></font>
-      </samp>
-  </summary>
-  
-<br>
-
-Sou um profissional focado na convergência entre a estética visual do **Design UI/UX** e a robustez técnica do **Desenvolvimento Fullstack**. Com formação pela **Estácio** e especialização pelo **Instituto PROA**, transformo conceitos em código funcional e interfaces de alta fidelidade.
+<p align="center">Sou um profissional focado na convergência entre a estética visual do <b>Design UI/UX</b> e a robustez técnica do <b>Desenvolvimento Fullstack</b>. Com formação pela <b>Estácio</b> e especialização pelo <b>Instituto PROA</b>, transformo conceitos em código funcional e interfaces de alta fidelidade.</p>
 
 <div align="center">
   <br>
