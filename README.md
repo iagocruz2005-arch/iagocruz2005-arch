@@ -62,7 +62,7 @@
   <a href="https://www.linkedin.com/in/iago-da-silva-cruz-066216307/">
     <img src="https://img.shields.io/badge/LINKEDIN-FF0000?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
-  <a href="https://www.behance.net/iagocruz">
+  <a href="https://www.behance.net/iagocruz4">
     <img src="https://img.shields.io/badge/BEHANCE-FF0000?style=for-the-badge&logo=behance&logoColor=black" />
   </a>
 </div>
