@@ -3,7 +3,11 @@
 
   <br>
 
-  <img src="perfil.png" alt="Iago Cruz" width="180" style="border-radius: 50%; border: 3px solid #ff0000; box-shadow: 0 0 20px #ff0000; margin-top: -110px;" />
+  <img src="perfil.png" alt="Iago Cruz" width="180" style="border-radius: 50%; border: 4px solid #ff0000; box-shadow: 0 0 15px #ff0000; margin-top: -110px;" />
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=iagocruz2005-arch&color=ff0000&style=flat-square&label=VISITAS+AO+PERFIL" alt="Contador de Visitas" />
+  </p>
 
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=DESIGNING+EXPERIENCES;CODING+THE+FUTURE;FULLSTACK+SOLUTIONS;" alt="Typing SVG" />
@@ -17,37 +21,35 @@
 > **Main_Stack:** `UI/UX & Fullstack`  
 > **Base:** `São Paulo, Brasil`
 
-Sou um designer de interface e desenvolvedor focado na convergência entre a estética visual e a robustez técnica. Com formação em **Design pela Estácio** e especialização em **programação pelo Instituto PROA**, minha missão é criar ecossistemas digitais que sejam visualmente magnéticos e tecnicamente impecáveis.
+Designer focado em interfaces de alta fidelidade e desenvolvedor capaz de construir sistemas completos. Transformo conceitos visuais em código funcional e performático.
 
-- 🎓 **Educação:** Graduado em Design, técnico em Comunicação Visual e Computação Gráfica.
-- 🚀 **Foco:** Interfaces de alta fidelidade (UI), experiência do usuário (UX) e arquitetura Fullstack.
-- 🛠️ **Projetos:** Atualmente desenvolvendo soluções escaláveis com foco em acessibilidade e performance.
+- 🎓 **Educação:** Graduado em Design (Estácio), técnico em Comunicação Visual e Computação Gráfica.
+- 🚀 **Foco:** Interfaces de alta fidelidade (UI), UX e arquitetura Fullstack.
+- 🛠️ **Projetos:** Atualmente focado em acessibilidade e performance em aplicações escaláveis.
 
 ---
 
-### ⚡ Technology Stack (Neon Red Theme)
-
+### ⚡ Pilha de Tecnologia (Tema Vermelho Neon)
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma,ps,ai,html,css,js,nodejs,py,mysql,git,vscode,github&theme=dark" />
 </div>
 
 ---
 
-### 📊 System Metrics (Red Glow)
-
+### 📊 Métricas do Sistema (Brilho Vermelho)
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagocruz2005-arch&show_icons=true&theme=blood&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagocruz2005-arch&layout=compact&langs_count=10&theme=blood&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagocruz2005-arch&show_icons=true&theme=blood&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=010409&hide_border=false" style="margin: 0 10px;"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagocruz2005-arch&layout=compact&langs_count=10&theme=blood&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=010409&hide_border=false" style="margin: 0 10px;"/>
 </div>
 
 <div align="center">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iagocruz2005-arch&theme=neon&background=000000&fire=ff0000&ring=ff0000&sideNums=ffffff&currStreakNum=ff0000" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iagocruz2005-arch&theme=neon&background=010409&fire=ff0000&ring=ff0000&sideNums=ffffff&currStreakNum=ff0000" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 🔗 Cyber Connect
+### 🔗 Cyber Conexão
 <div align="center">
   <a href="mailto:iagocruz2005@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-FF0000?style=for-the-badge&logo=gmail&logoColor=black" />
