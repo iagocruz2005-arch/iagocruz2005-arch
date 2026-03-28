@@ -3,16 +3,10 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="perfil.png" style="border-radius: 50%; border: 3px solid #ff0000; box-shadow: 0 0 15px #ff0000;" />
+  <img align="center" height="200" src="perfil.png" style="border-radius: 50%; border: 3px solid #ff0000; box-shadow: 0 0 15px #ff0000;" />
 </div>
 
 <br>
-
-<div align="center">
-  
-  <br>
-  
-</div>
 
 <div align="center">
   <br>
