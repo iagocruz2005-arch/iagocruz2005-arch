@@ -1,56 +1,73 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=200&section=header&text=Iago%20Cruz&fontSize=75&animation=fadeIn&fontColor=ff0000&desc=UI/UX%20Designer%20%7C%20Fullstack%20Developer&descSize=20&descAlignVertical=175" width="100%" />
 
+</div>
+
+<br>
+
+<div align="center">
+  <img align="center" height="150" src="perfil.png" style="border-radius: 50%; border: 3px solid #ff0000; box-shadow: 0 0 15px #ff0000;" />
+</div>
+
+<br>
+
+<div align="center">
+  
   <br>
-
-  <img src="perfil.png" alt="Iago Cruz" width="180" style="border-radius: 50%; border: 4px solid #ff0000; box-shadow: 0 0 15px #ff0000; margin-top: -110px;" />
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=iagocruz2005-arch&color=ff0000&style=flat-square&label=VISITAS+AO+PERFIL" />
-  </p>
-
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=DESIGNING+EXPERIENCES;CODING+THE+FUTURE;FULLSTACK+SOLUTIONS;" />
-  </p>
-</div>
-
----
-
-### <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&color=FF0000&width=300&lines=TERMINAL+::+SOBRE_MIM" />
-> <font color="#ff0000">Status:</font> `Online`  
-> <font color="#ff0000">Main_Stack:</font> `UI/UX & Fullstack`  
-> <font color="#ff0000">Base:</font> `São Paulo, Brasil`
-
-Sou um profissional focado na convergência entre a estética visual do <font color="#ff0000">Design UI/UX</font> e a robustez técnica do <font color="#ff0000">Desenvolvimento Fullstack</font>. Com formação em Design pela <font color="#ff0000">Estácio</font> e qualificação técnica pelo <font color="#ff0000">Instituto PROA</font>, minha missão é criar soluções digitais centradas no usuário que sejam visualmente impactantes e eficientes no backend.
-
-- <font color="#ff0000">Educação:</font> Graduado em Design, especializado em Comunicação Visual e Computação Gráfica.
-- <font color="#ff0000">Foco:</font> Interfaces de alta fidelidade, UX e arquitetura de sistemas.
-- <font color="#ff0000">Projetos:</font> Atualmente focado em acessibilidade e performance em aplicações escaláveis.
-
----
-
-### <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&color=FF0000&width=400&lines=TECHNOLOGY+STACK" />
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,html,css,js,nodejs,py,mysql,git,vscode,github&theme=dark" />
-</div>
-
----
-
-### <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&color=FF0000&width=400&lines=SYSTEM+METRICS" />
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagocruz2005-arch&show_icons=true&theme=blood&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagocruz2005-arch&layout=compact&langs_count=10&theme=blood&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000&hide_border=false" />
+  
 </div>
 
 <div align="center">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iagocruz2005-arch&theme=neon&background=000000&fire=ff0000&ring=ff0000&sideNums=ffffff&currStreakNum=ff0000" />
+  <img align="center" alt="Summary Cards" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iagocruz2005-arch&theme=zenburn&title_color=ff0000"/>
 </div>
 
 ---
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&color=FF0000&width=300&lines=CYBER+CONNECT" />
+<br>
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&color=FF0000&center=true&vCenter=true&width=300&lines=プ+ロ+グ+ラ+マ;" />
+  <samp>
+      Hi there! I'm <font color="#ff0000"><b>Iago Cruz</b></font>
+  </samp>
+</div>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=FF0000&width=900&size=22&center=true&lines=UI%2FUX+Designer+and+Fullstack+Developer;Based+in+São+Paulo%2C+Brazil;Creative+Mind+%26+Code+Lover;Be+welcome!;" alt="Typing SVG"/>
+</div>
+
+<br>
+
+<div align="center" style="display: inline_block">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Illustrator.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg">
+</div>
+
+---
+
+<br>
+<details align="center">  
+  <summary>
+      <samp>
+        <font color="#ff0000"><b>More Info & Cyber Connect</b></font>
+      </samp>
+  </summary>
+  
+<br>
+
+Sou um profissional focado na convergência entre a estética visual do **Design UI/UX** e a robustez técnica do **Desenvolvimento Fullstack**. Com formação pela **Estácio** e especialização pelo **Instituto PROA**, transformo conceitos em código funcional e interfaces de alta fidelidade.
+
+<div align="center">
+  <br>
   <a href="mailto:iagocruz2005@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-FF0000?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
@@ -62,8 +79,16 @@ Sou um profissional focado na convergência entre a estética visual do <font co
   </a>
 </div>
 
+</details>
+
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=50&section=footer&text=INITIATING%20CREATIVE%20PROCESS...&fontSize=15&fontColor=ff0000" />
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=iagocruz2005-arch&style=flat-square&color=ff0000" /></p> 
+</div>
+
+<br>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=000000&customColorList=23&section=footer&text=INITIATING%20CREATIVE%20PROCESS...&fontColor=ff0000&fontSize=20"/>
 </div>
