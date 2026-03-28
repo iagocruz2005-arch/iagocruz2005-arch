@@ -84,3 +84,13 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iagocruz2005-arch/iagocruz2005-arch/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
+
+<br>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&color=FF0000&center=true&vCenter=true&width=400&lines=PROJECT_ARCHIVE_ACCESSING...;ROOT_DIRECTORY_LOADED;" />
+</div>
+
+<br>
