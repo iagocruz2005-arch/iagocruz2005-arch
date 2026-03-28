@@ -12,7 +12,7 @@
 
 <br>
 
-<p align="center">Sou um profissional focado na convergência entre a estética visual do <b>Design UI/UX</b> e a robustez técnica do <b>Desenvolvimento Fullstack</b>. Com formação pela <b>Estácio</b> e especialização pelo <b>Instituto PROA</b>, transformo conceitos em código funcional e interfaces de alta fidelidade.</p>
+<p align="center">Sou um profissional focado na convergência entre a estética do <b>Design UI/UX</b> e a robustez do <b>Desenvolvimento Fullstack</b>. Minha trajetória combina a base técnica em Comunicação Visual pelo <b>Instituto Social Nossa Senhora de Fátima</b> e Game Design pela <b>SAGA</b>, com a fundamentação acadêmica da <b>Estácio</b> e a especialização em desenvolvimento pelo <b>Instituto PROA</b>. Transformo conceitos criativos em código funcional e interfaces de alta fidelidade.</p>
 
 <br>
 
