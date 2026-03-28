@@ -3,6 +3,10 @@
 <br>
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=DESIGNING+EXPERIENCES;CODING+THE+FUTURE;FULLSTACK+SOLUTIONS;" />
+</div>
+
+<div align="center">
   <img align="center" height="200" src="perfil.png" style="border-radius: 50%; border: 3px solid #ff0000; box-shadow: 0 0 15px #ff0000;" />
 </div>
 
