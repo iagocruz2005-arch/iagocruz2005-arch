@@ -3,6 +3,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Michroma&size=25&duration=3000&pause=1000&color=DD6118&center=true&vCenter=true&width=500&lines=DESIGNING+EXPERIENCES;CODING+THE+FUTURE;FULLSTACK+SOLUTIONS;" />
 </div>
 
+<br>
+
 <div align="center">
   <img src="linkedin banner (1).png" width="100%" style="border: 2px solid #DD6118; border-radius: 10px; box-shadow: 0 0 15px #1A1110;" />
 </div>
