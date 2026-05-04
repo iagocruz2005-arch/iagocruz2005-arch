@@ -85,3 +85,5 @@ Sou um profissional focado na convergência entre a estética do <b>Design UI/UX
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Michroma&size=20&color=DD6118&center=true&vCenter=true&width=400&lines=PROJECT_ARCHIVE_ACCESSING...;ROOT_DIRECTORY_LOADED;" />
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0D0D0D&customColorList=15&section=footer"/>
