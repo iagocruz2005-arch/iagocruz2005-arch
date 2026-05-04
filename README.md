@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0D0D0D&customColorList=15&section=header&text=IAGO%20CRUZ&fontColor=DD6118&fontSize=50&font=Michroma"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0D0D0D&customColorList=15&section=header&text=WELCOME%20TO%20MY%20REPOSITORY&fontColor=DD6118&fontSize=25&font=Michroma&fontWeight=400"/>
 
 <br>
 
@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img align="center" height="200" src="perfil.png" style="border-radius: 50%; border: 3px solid #DD6118; box-shadow: 0 0 15px #1A1110;" />
+  <img src="linkedin banner (1).png" width="100%" style="border: 2px solid #DD6118; border-radius: 10px; box-shadow: 0 0 15px #1A1110;" />
 </div>
 
 <br>
