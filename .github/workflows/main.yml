@@ -27,8 +27,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            "dist/github-contribution-grid-snake.svg?color_snake=#DD6118&color_dots=#161b22,#30201e,#5e3a25,#a3522c,#DD6118"
-            "dist/github-contribution-grid-snake-dark.svg?color_snake=#DD6118&color_dots=#161b22,#30201e,#5e3a25,#a3522c,#DD6118"
+            dist/github-contribution-grid-snake.svg?color_snake=#DD6118&color_dots=#161b22,#30201e,#5e3a25,#a3522c,#DD6118
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#DD6118&color_dots=#161b22,#30201e,#5e3a25,#a3522c,#DD6118
           
       # Envia o conteúdo gerado para a branch 'output'
       - name: push github-contribution-grid-snake.svg to the output branch
