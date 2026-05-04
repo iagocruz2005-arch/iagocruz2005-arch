@@ -1,7 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0D0D0D&customColorList=15&section=header&text=WELCOME%20TO%20MY%20REPOSITORY&fontColor=DD6118&fontSize=25&font=Michroma&fontWeight=400"/>
-
-<br>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0D0D0D&customColorList=15&section=header"/>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Michroma&size=25&duration=3000&pause=1000&color=DD6118&center=true&vCenter=true&width=500&lines=DESIGNING+EXPERIENCES;CODING+THE+FUTURE;FULLSTACK+SOLUTIONS;" />
 </div>
